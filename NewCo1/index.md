@@ -10,4 +10,4 @@
 [![alt text for linked image](./image/ATA_Domain_Connectivity_User.JPG)](https://azure.microsoft.com) 
 
 
-[!INCLUDE[token1](/TOC.md)]
+[!INCLUDE[token1](./TOC.md)]
